@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CubeVolume</string>
+    <string name="Length">panjang</string>
+    <string name="Height">Tinggi</string>
+    <string name="jari_jari">Jari-jari(r)</string>
+    <string name="result">Result</string>
+    <string name="hitung">Hitung</string>
+</resources>
